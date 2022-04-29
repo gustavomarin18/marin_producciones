@@ -1,8 +1,18 @@
-import React from 'react'
+import React from 'react';
+import "../styles/BodyHome.css";
+
+
 
 const bodyHome = () => {
   return (
-    <div>bodyHome</div>
+    <div>
+        <h1>home</h1>
+      
+        
+
+
+
+    </div>
   )
 }
 
